@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend 
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me ahmedhesein1790@gmai.com
+- 📫 How to reach me ahmedhesein1790@gmail.com
 - 😄 Pronouns: Ahmed
 - ⚡ Fun fact: I am a math teacher
 
