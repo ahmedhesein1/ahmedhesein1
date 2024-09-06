@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhesein1
 - 👀 I’m interested in backend 
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m a backend nodejs developer
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me ahmedhesein1790@gmail.com
 - 😄 Pronouns: Ahmed
